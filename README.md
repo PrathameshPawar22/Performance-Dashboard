@@ -6,8 +6,6 @@ This repository contains a comprehensive portfolio analysis project aimed at pro
 - `PowerBI/`: Contains Power BI dashboards for portfolio, product profit, claims, and sales analysis.
 - `SQL/`: SQL queries and DML task solutions.
 - `Datasets/`: Datasets used for Power BI reports and SQL tasks.
-- `Presentation/`: A PowerPoint presentation explaining the analyses and insights.
-- `LICENSE`: Repository license (e.g., MIT).
 
 ## Power BI Tasks
 ### Dashboards:
